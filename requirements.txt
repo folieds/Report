@@ -1,5 +1,4 @@
 telethon
 aiohttp
-random
 pyTelegramBotAPI
 asyncio
