@@ -9,7 +9,7 @@ from telethon.tl.types import ChannelParticipant
 # Bot Configuration
 API_ID = '29748628'
 API_HASH = '45f3828a3a3d2f6e41696e5c39531110'
-BOT_TOKEN = '7415801305:AAHOPIzqQmi0gn_EGjZLLZkvdRTJPAlc-nI'
+BOT_TOKEN = '7415801305:AAECmOHSfsqCjYvPumppruI-YhCAfBXdyR8'
 CHANNEL_USERNAME = 'CodxByte'  # Replace with your channel username
 ADMIN_USERNAME = 'faony'  # Replace with your admin's username (without @)
 ADMIN_ID = 6076683960  # Replace with your admin's Telegram ID
